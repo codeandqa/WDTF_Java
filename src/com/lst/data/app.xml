@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testConfiguratin>
+	<testGroups>
+		<group>
+			<test browser="component.properties">TC_1</test>
+			<test browser="ch">TC_2</test>
+			<test browser="ie">TC_3</test>
+			<test browser="">TC_4</test>
+		</group>
+	</testGroups>
+</testConfiguratin>
+sdfsdf=dfsfsdfs;

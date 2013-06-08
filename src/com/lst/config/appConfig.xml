@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  
+  <appSettings>
+    <add key="GUID" value="CurrentGUIDName0001"/>
+    <add key="ImplicitWaits" value="1"/>
+    <add key="ParentBrowser" value="firefox"/>
+    <!--user info-->
+    <add key="userLogin" value="aditya"/>
+    <add key="userPassword" value="aditya"/>
+    <add key="UserName" value="adityakumar"/>
+    <!--send log info-->
+    <add key="ReportReceiverEmail" value="aditya24jan@yahoo.com"/>
+    <add key="NetworkLocation" value="//sdd/dfd//df"></add>
+    <add key="baseURL" value="http://www.lampsplus.com"/>
+    <add key="sendlog" value="true"/>
+    <!-- log mgmt info -->
+    <add key="DeleteOldLogfiles" value="true"/>
+    <add key="RecordingWhileFailure" value="true"/>
+    <add key="EndToEndTesting" value="true"/>
+  </appSettings>
+</configuration>

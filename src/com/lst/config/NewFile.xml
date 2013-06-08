@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+  <settings>
+    <GUID>CurrentGUIDName0001</GUID>
+    <ImplicitWaits>30</ImplicitWaits>
+    <ParentBrowser>firefox</ParentBrowser>
+    <!--user info-->
+    <userLogin>aditya</userLogin>
+    <userPassword>aditya</userPassword>
+    <UserName>adityakumar</UserName>
+    <!--send log info-->
+    <ReportReceiverEmail>aditya24jan@yahoo.com</ReportReceiverEmail>
+    <NetworkLocation>//sdd/dfd//df</NetworkLocation>
+    <baseURL>http://www.amazon.com/gp/aw</baseURL>
+    <sendlog>true</sendlog>
+    <!-- log mgmt info -->
+    <DeleteOldLogfiles>true</DeleteOldLogfiles>
+    <RecordingWhileFailure>true</RecordingWhileFailure>
+    <EndToEndTesting>true</EndToEndTesting>
+  </settings>
+</configuration>
